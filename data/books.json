@@ -1,0 +1,8 @@
+{
+  "data":[
+    {"id":"1","title":"html","author":"w3c","price":"10.99","pubdate":"2016-01-23","status":"true","images":["1","2","3","4"]},
+    {"id":"2","title":"AngularJS","author":"Google","price":"30.99","pubdate":"2013-04-23","status":"false","images":["1","2","3","4"]},
+    {"id":"3","title":"bootstrap","author":"twitter","price":"22.99","pubdate":"2013-01-23","status":"true","images":["1","2","3","4"]},
+    {"id":"4","title":"jQuery","author":"w3c","price":"20.99","pubdate":"2011-01-23","status":"false","images":["1","2","3","4"]}
+  ]
+}

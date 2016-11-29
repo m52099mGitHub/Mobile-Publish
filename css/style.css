@@ -1,0 +1,10 @@
+a,a:hover{
+    text-decoration: none;
+}
+.fade{
+    opacity: 1;
+}
+.fade.ng-hide{
+    transition-duration: 3s ;
+    opacity: 0;
+}
